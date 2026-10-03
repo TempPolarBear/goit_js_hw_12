@@ -4,10 +4,10 @@ GoIT JavaScript course homework.
 
 ## Topics
 
-- Поиск изображений через Pixabay API
-- Пагинация результатов кнопкой Load more
-- Автопрокрутка после загрузки следующей страницы
-- Лайтбокс, индикатор загрузки и сообщения об ошибках
+- Image search through the Pixabay API
+- Results pagination with a Load more button
+- Automatic scrolling after loading the next page
+- Lightbox, loading indicator, and error messages
 
 ## Technologies
 
